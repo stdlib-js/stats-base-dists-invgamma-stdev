@@ -69,7 +69,7 @@ when `α > 2`. Otherwise, the standard deviation is not defined.
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-stdev@v0.2.0-deno/mod.js';
 ```
 
 #### stdev( alpha, beta )
@@ -140,7 +140,7 @@ v = stdev( 3.0, -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-stdev@v0.2.0-deno/mod.js';
 
 var alpha;
 var beta;
