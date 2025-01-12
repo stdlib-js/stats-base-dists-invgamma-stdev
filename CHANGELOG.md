@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,7 +34,8 @@ This release closes the following issue:
 
 <details>
 
--   [`4bea27a`](https://github.com/stdlib-js/stdlib/commit/4bea27aa3beda0297d8860b3cd4f66f824cd1ddf) - **feat:** add C implementation for `stats/base/dists/invgamma/stdev`   [(#4118)](https://github.com/stdlib-js/stdlib/pull/4118) _(by Vivek maurya)_
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`4bea27a`](https://github.com/stdlib-js/stdlib/commit/4bea27aa3beda0297d8860b3cd4f66f824cd1ddf) - **feat:** add C implementation for `stats/base/dists/invgamma/stdev`   [(#4118)](https://github.com/stdlib-js/stdlib/pull/4118) _(by Vivek Maurya)_
 
 </details>
 
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   Vivek maurya
+-   Philipp Burckhardt
+-   Vivek Maurya
 
 </section>
 
